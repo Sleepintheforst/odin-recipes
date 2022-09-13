@@ -1,2 +1,2 @@
 # odin-recipes
-A TOP project to test my HTML knowledge - links & images, elements and tags and lists. 
+A TOP project to test my HTML knowledge - links & images, elements & tags, and lists. 

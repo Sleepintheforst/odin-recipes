@@ -1,0 +1,35 @@
+[33mcommit 3253b0e51d7f0624dd0bc2e4976b43d2de087389[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Loreyn <sleepintheforst@gmail.com>
+Date:   Tue Sep 13 14:37:32 2022 +0300
+
+    Add peach-tea.html and final changes
+
+[33mcommit 5fd3fa783ff8a43f43c5d9a763495a84d9a7a407[m
+Author: Loreyn <sleepintheforst@gmail.com>
+Date:   Tue Sep 13 14:16:52 2022 +0300
+
+    Added ice-cream.html
+
+[33mcommit b75986606e143739f08db1f60a40c645f7e581bc[m
+Author: Loreyn <sleepintheforst@gmail.com>
+Date:   Tue Sep 13 13:27:41 2022 +0300
+
+    Ceate and format index.html and pepperoni-pizza.html
+
+[33mcommit 812e4a1f6e74232df9885c38a290506d9a63d948[m
+Author: Loreyn <sleepintheforst@gmail.com>
+Date:   Tue Sep 13 12:32:46 2022 +0300
+
+    Edited typo
+
+[33mcommit 9a986c2721a75f661996d413b0b63f70d3eb61fe[m
+Author: Loreyn <sleepintheforst@gmail.com>
+Date:   Tue Sep 13 12:30:32 2022 +0300
+
+    Edit README.md
+
+[33mcommit e0db57a22f9035b5fca1a78abb8aeea556a52150[m
+Author: Sleepintheforst <112177194+Sleepintheforst@users.noreply.github.com>
+Date:   Tue Sep 13 12:19:31 2022 +0300
+
+    Initial commit
